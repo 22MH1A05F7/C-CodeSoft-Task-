@@ -7,7 +7,7 @@ int main()
 	int secretnumber, guess;
 	secretnumber = rand() % 100 + 1;
 	cout << "<<---Welcome to the 🤔  guess 💡 a number game.🤔  Guess a number from 1 to 💯 !-->>\n\n";
-    int attempts=0;
+        int attempts=0;
 	do
 	{
 		cout << "Enter a guess between 1️ and 💯 :➡️ ";
